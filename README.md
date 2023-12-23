@@ -288,7 +288,7 @@ This project involves analyzing a dataset related to vehicle details. The aim is
 
 |Brand|	Total|	year|	km_driven|	AVG_Price|
 | :-------| :---------| :---------| :---------| :---------|
-|yundai	|1018	|2017|	45000|	889246.53|
+|Hyundai	|1018	|2017|	45000|	889246.53|
 |Mahindra|	859	|2016|	40000|	699880.06|
 |Tata	|807	|2018|	35000|	957769.49|
 |Maruti	|776	|2015|	40000|	596613.35|
